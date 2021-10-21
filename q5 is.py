@@ -1,4 +1,4 @@
-#2X2 HILL CYPHER
+# 2X2 HILL CYPHER
 '''
 mod of key should be invertible and coprime with 26 and have a modulus such that its divisible by matrix
 some acceptable keys:
