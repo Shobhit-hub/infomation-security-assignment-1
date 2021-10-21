@@ -49,6 +49,6 @@ def cypher_attack(S):
         for i in range(10):
                 print(ans[i])
 def main():
-        S = input("Enter a string : ")
+        S = input("Enter a string :  ")
         cypher_attack(S)
-main()
+main() 
